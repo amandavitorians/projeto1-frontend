@@ -52,7 +52,7 @@ Você pode fazer o deploy em qualquer serviço de hospedagem de SPAs, como:
 - [Surge](https://surge.sh/)
 - GitHub Pages
 
-### Deploy no Netlify (exemplo)
+### Deploy no Netlify (exemplo e link)
 1. Crie uma conta em [Netlify](https://app.netlify.com/).
 2. Clique em **Add new site → Deploy manually**.
 3. Faça o build local com:
@@ -60,6 +60,10 @@ Você pode fazer o deploy em qualquer serviço de hospedagem de SPAs, como:
    npm run build
    ```
 4. Arraste a pasta `dist/` gerada para a área de deploy no Netlify.
+
+
+   A aplicação está disponível em:  
+👉 [https://projeto1-frontend.netlify.app](https://projeto1-frontend.netlify.app)
 
 ### Deploy no Vercel (exemplo)
 1. Instale a CLI do Vercel:
