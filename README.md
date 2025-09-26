@@ -84,5 +84,12 @@ Você pode fazer o deploy em qualquer serviço de hospedagem de SPAs, como:
 
 ---
 
+## 👨‍🏫 Observação para o professor
+
+Conforme solicitado no enunciado, a pasta **`codigo-fontes/`** contém apenas os diretórios **`src/components`** e **`src/contexts`**.  
+Essa pasta foi preparada exclusivamente para a correção.
+
+---
+
 👨‍💻 **Autor(a):** Amanda Neves  
 📅 2025
